@@ -3,5 +3,5 @@
 Este es el repositorio de actividades dirigidas de Nuria Cuberos 
 - [ad1](https://nebrijas.github.io/periodismodedatos-nct-/ad1.html)
 - [ad2](https://nebrijas.github.io/periodismodedatos-nct-/ad2.html)
-- [ad3](https://nebrijas.github.io/periodismodedatos-nct-/api-covi19-pandas.html)
+- [ad3](https://nebrijas.github.io/periodismodedatos-nct-/api-covid19-pandas.html)
 - [adfinal]()
