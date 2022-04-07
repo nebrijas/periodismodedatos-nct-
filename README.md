@@ -4,4 +4,4 @@ Este es el repositorio de actividades dirigidas de Nuria Cuberos Távora de la a
 - [ad1](https://nebrijas.github.io/periodismodedatos-nct-/ad1.html)
 - [ad2](https://nebrijas.github.io/periodismodedatos-nct-/ad2.html)
 - [ad3](https://nebrijas.github.io/periodismodedatos-nct-/api-covid19-pandas.html)
-- [ad4](https://nebrijas.github.io/periodismodedatos-nct-/)
+- [ad4](https://nebrijas.github.io/periodismodedatos-nct-/mapa-coordenadas.html)
